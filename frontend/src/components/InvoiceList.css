@@ -1,0 +1,50 @@
+/* src/components/InvoiceList.css */
+.invoice-list {
+    margin: 20px;
+  }
+  
+  .invoice-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .invoice-list th, .invoice-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .invoice-list th {
+    background-color: #f4f4f4;
+  }
+  
+  .invoice-list tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .invoice-list tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .invoice-list form {
+    margin-bottom: 20px;
+  }
+  
+  .invoice-list input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .invoice-list button {
+    padding: 8px 16px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .pagination button {
+    padding: 8px 16px;
+    margin: 0 5px;
+  }
+  

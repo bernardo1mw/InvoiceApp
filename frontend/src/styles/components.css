@@ -1,0 +1,35 @@
+.invoice-upload, .invoice-list, .invoice-details, .filter-bar {
+    margin-bottom: 20px;
+  }
+  
+  .invoice-upload input[type="file"] {
+    margin-right: 10px;
+  }
+  
+  .invoice-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .invoice-list li {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  
+  .invoice-list li:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .invoice-details p {
+    margin: 5px 0;
+  }
+  
+  .filter-bar input {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
