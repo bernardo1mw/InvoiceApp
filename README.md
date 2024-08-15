@@ -1,4 +1,3 @@
-```markdown
 # Projeto de Gestão de Notas Fiscais
 
 Este projeto é uma aplicação web para o gerenciamento de notas fiscais, incluindo upload, visualização e detalhamento de informações. O sistema é composto por um backend em Laravel, um frontend em React, e utiliza Docker para orquestração dos serviços.
@@ -139,7 +138,3 @@ Para contribuir com o projeto, faça um fork do repositório e envie um pull req
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
-
-```
-
-Esse `README.md` inclui instruções completas para configurar e executar o projeto localmente, testar a API com cURL, e informações sobre contribuições e licença. Se precisar de mais detalhes ou ajustes, estou à disposição!
