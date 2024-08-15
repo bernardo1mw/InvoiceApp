@@ -110,25 +110,11 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 - **GET** `/api/invoices/{id}` - Obtém os detalhes de uma nota fiscal específica.
 - **GET** `/api/download/{filename}` - Faz o download de uma nota fiscal específica.
 
-## Endpoints da API
-
-- `GET /api/invoices`: Retorna a lista de notas fiscais com paginação.
-- `GET /api/invoices/{id}`: Retorna os detalhes de uma nota fiscal específica.
-- `POST /api/invoices/upload`: Permite o upload de um arquivo XML.
-
 
 ## Estrutura de Diretórios
 
 - **`backend/`**: Contém o código fonte do backend em Laravel.
 - **`frontend/`**: Contém o código fonte do frontend em React.
-
-
-## Funcionalidades
-
-- **Upload de Arquivos XML**: Permite o upload de arquivos XML das notas fiscais.
-- **Listagem de Notas Fiscais**: Exibe uma lista de notas fiscais com opções de filtragem e ordenação.
-- **Detalhes da Nota Fiscal**: Exibe informações detalhadas de uma nota fiscal específica, incluindo itens, transportes, pagamentos e informações adicionais.
-- **Download de Arquivos XML**: Permite o download dos arquivos XML das notas fiscais.
 
 
 ## Contribuição
