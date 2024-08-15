@@ -36,7 +36,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
    ```bash
    cd backend
-   composer install
+   php composer.phar install
    ```
 
 2. **Configuração do Banco de Dados**
